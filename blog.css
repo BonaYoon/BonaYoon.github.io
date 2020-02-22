@@ -1,0 +1,18 @@
+header {
+  background-color: white;
+  display: inline;
+  align-items: right;
+}
+
+main {
+  background-color: white;
+}
+
+.main img {
+  display: grid;
+  grid-template-columns: 200px 400px 200px;
+}
+
+button {
+  align-items: right;
+}
